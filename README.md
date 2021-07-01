@@ -73,7 +73,7 @@ An app to help stay organized in college. Using class times, study times, and ap
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL[1]" width=600>
+<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 
